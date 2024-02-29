@@ -1,0 +1,14 @@
+{
+  "resourceName": "s396db7c36",
+  "policyUUID": "96db7c36",
+  "bucketName": "lifeosfab3be53c7bf433698c2de7e420dd74b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

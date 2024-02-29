@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "lifeos64c04ccd": {}
+      },
+      "api": {
+        "lifeos": {}
+      },
+      "storage": {
+        "s396db7c36": {}
       }
     }
   }
